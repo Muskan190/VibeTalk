@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299028536708",
+    "project_id": "vibetalk2",
+    "storage_bucket": "vibetalk2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299028536708:android:d88e02587ce7445f4d51d1",
+        "android_client_info": {
+          "package_name": "com.example.vibetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299028536708-16go3ejacckgs4pj23o46k18qts6jedu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJIYdnxottiCLPVQNDhHieSMIthbu_7zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299028536708-16go3ejacckgs4pj23o46k18qts6jedu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
